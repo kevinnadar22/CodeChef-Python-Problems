@@ -1,0 +1,1 @@
+This repo consists of some of the CodeChef Python Problems Solution with link of it.
